@@ -1,0 +1,1 @@
+1(Add a repository of current folder). git init 
